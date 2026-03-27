@@ -1,11 +1,12 @@
-# 📊 Student Performance Dashboard
+#  Student Performance Dashboard
 
-## 👤 Author
+##  Author
 Tushar Singh
+Pratyush Singh
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes student performance using Power BI.  
 It helps in understanding subject-wise marks and pass/fail distribution using visual dashboards.
 
@@ -18,7 +19,7 @@ It helps in understanding subject-wise marks and pass/fail distribution using vi
 
 ---
 
-## 📁 Files Included
+##  Files Included
 - Student Dashboard.pbix (Power BI file)
 - student_marks.csv (dataset)
 - student_marks.xlsx (Excel dataset)
@@ -26,13 +27,13 @@ It helps in understanding subject-wise marks and pass/fail distribution using vi
 
 ---
 
-## 📸 Dashboard Screenshot
+##  Dashboard Screenshot
 
 ![Dashboard](dashboard.png)
 
 ---
 
-## 🚀 How to Open the Project
+##  How to Open the Project
 
 1. Download the repository as ZIP  
 2. Extract the ZIP file  
@@ -42,12 +43,12 @@ It helps in understanding subject-wise marks and pass/fail distribution using vi
 
 ---
 
-## 📊 Features
+##  Features
 - Subject-wise marks analysis  
 - Pass/Fail distribution  
 - Student performance tracking  
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 This dashboard helps visualize student performance effectively using data visualization techniques.
